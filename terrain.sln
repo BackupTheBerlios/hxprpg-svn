@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "terrain", "terrain.csproj", "{127259B2-07F8-46AC-BF1E-039AEBF79EE3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{127259B2-07F8-46AC-BF1E-039AEBF79EE3}.Debug.ActiveCfg = Debug|.NET
+		{127259B2-07F8-46AC-BF1E-039AEBF79EE3}.Debug.Build.0 = Debug|.NET
+		{127259B2-07F8-46AC-BF1E-039AEBF79EE3}.Release.ActiveCfg = Release|.NET
+		{127259B2-07F8-46AC-BF1E-039AEBF79EE3}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
